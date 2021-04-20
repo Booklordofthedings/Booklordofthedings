@@ -1,5 +1,4 @@
-# Hello Im Booklordofthedings or Jannis von Hagen   
-depending on if I know you irl or dont.
+# Hello Im Jannis von Hagen   
 
 I am still a highschool student and havent decided on a field of computer science that I want to work in,
 although Game- and Webdevelopment are two of the things that I really like so far.
