@@ -7,6 +7,4 @@ although Game- and Webdevelopment are two of the things that I really like so fa
 The Languagues I use are C#, Js, HTMl, CSS and Beeflang, but I want to learn more in the future.
 
 You can contact me in various different ways and locations:  
-[Twitter](https://twitter.com/Booklordofthed1)  
-Discord: #1519 Booklordofthedings  
-Email: Jannis.v.hagen@gmail.com
+Discord: #1519 Booklordofthedings 
