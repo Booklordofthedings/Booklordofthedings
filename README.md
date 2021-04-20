@@ -9,4 +9,4 @@ The Languagues I use are C#, Js, HTMl, CSS and Beeflang, but I want to learn mor
 You can contact me in various different ways and locations:  
 [Twitter](https://twitter.com/Booklordofthed1)  
 Discord: #1519 Booklordofthedings  
-Email: Jannis.v.hagen@gmail.com or main@jvonhagen.de
+Email: Jannis.v.hagen@gmail.com
