@@ -1,4 +1,4 @@
-current status: Offline
+## Current status: Online 🟢
   
 # Hello Im Jannis von Hagen   👋  
   

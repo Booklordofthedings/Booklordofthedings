@@ -1,8 +1,8 @@
 @echo off 
     setlocal enableextensions disabledelayedexpansion
 
-    set "search=current status: Offline"
-    set "replace=current status: Online"
+    set "search=## Current status: Offline 🔴"
+    set "replace=## Current status: Online 🟢"
 	
     set "textFile=README.md"
 
