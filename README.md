@@ -1,9 +1,8 @@
-current status: Offline
+current status: Online
 # Hello Im Jannis von Hagen   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
-Right now I am focused on Game- and Webdev
-.
+Right now I am focused on Game- and Webdev.
 ## Projects right now
 - A small game engine based on sdl2 written in beeflang
 - The pvz stats website, that does api calls and then formats them
