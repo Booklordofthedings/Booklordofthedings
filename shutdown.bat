@@ -3,7 +3,7 @@
 
     set "search=current status: Online"
     set "replace=current status: Offline"
-
+	
     set "textFile=README.md"
 
     for /f "delims=" %%i in ('type "%textFile%" ^& break ^> "%textFile%" ') do (
@@ -16,3 +16,5 @@
 	git add .
 	git commit -m "changing status"
 	git push
+	
+	pause
