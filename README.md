@@ -1,4 +1,4 @@
-current status: Online
+current status: Offline
 # Hello Im Jannis von Hagen   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
