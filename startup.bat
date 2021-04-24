@@ -10,11 +10,11 @@
         set "line=%%i"
         setlocal enabledelayedexpansion
         >>"%textFile%" echo(!line:%search%=%replace%!
+		if "%line%" == "%search%" goto out
         endlocal
+		
     )
-	
+	:out
 	git add .
 	git commit -m "changing status"
 	git push
-	
-	pause
