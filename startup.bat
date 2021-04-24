@@ -10,6 +10,9 @@
         set "line=%%i"
         setlocal enabledelayedexpansion
         >>"%textFile%" echo(!line:%search%=%replace%!
+		@echo on 
+		echo %line%
+		@echo off 
 		if "%line%" == "%replace%" goto out
         endlocal
 		
@@ -19,3 +22,4 @@
 	git add .
 	git commit -m "changing status"
 	git push
+pause
