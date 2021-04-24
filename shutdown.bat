@@ -11,6 +11,7 @@
         setlocal enabledelayedexpansion
         >>"%textFile%" echo(!line:%search%=%replace%!
 		if "%line%" == "%search%" goto out
+		SLEEP 1
         endlocal
 		
     )
