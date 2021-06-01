@@ -1,6 +1,6 @@
-## Current status: Online 🟢
+## Current status: Offline 🔴
   
-# Hello Im Jannis von Hagen   👋  
+# Hello Im Jannis   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
 Right now I am focused on Game- and Webdev.
