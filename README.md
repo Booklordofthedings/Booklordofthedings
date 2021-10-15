@@ -1,11 +1,7 @@
-## Current status: Online 🟢
-  
 # Hello Im Jannis   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
 Right now I am focused on Game- and Webdev.
-  
-### Looking for a job/apprenticeship/dual college right now
   
 ## Projects right now
 - A small game engine based on sdl2 written in beeflang
