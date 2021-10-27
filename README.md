@@ -1,6 +1,6 @@
 ![The Booklordofthedings banner](https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png)
 
-# Hello Im Jannis   👋  
+# Hello Im a Developer and Student   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
 Right now I am focused on Game- and Webdev.
