@@ -11,6 +11,10 @@ Location: Germany
 Languages: German, English
 Programming_Languages: Beeflang, ( HTML, CSS ), C#, Javascript
 Tools: Vscode, Unity, Git, Powershell
+Email: Jannis.v.Hagen@gmail.com
+Discord: Booklordofthedings#1519
+Twitter: @Booklordofthed1
+Steam: https://steamcommunity.com/id/Booklordofthedings
 ```
 
 ---
