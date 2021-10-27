@@ -2,7 +2,7 @@
 
 
 ## General
-<img height="300px" align="center" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">
+<p align="center"> <img height="300px" align="center" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png"> </p>
 
 ```csharp
 Booklordofthedings
