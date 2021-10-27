@@ -1,3 +1,5 @@
+![The Booklordofthedings banner](https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png)
+
 # Hello Im Jannis   👋  
   
 I am currently still a highschool student with a interest in most things in computer science.  
