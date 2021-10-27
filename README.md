@@ -2,8 +2,7 @@
 
 # Hello Im Jannis, a Developer and Student   👋  
   
-I am currently still a highschool student with a interest in most things in computer science.  
-Right now I am focused on Game- and Webdev.
+[<img align="left" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">]
   
 ## Projects right now
 - A small game engine based on sdl2 written in beeflang
