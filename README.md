@@ -5,6 +5,7 @@
 <img align="left" height="300px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">
 
 ```csharp
+
 Os: Windows 10 Pro x86_64
 Pronouns: He/Him
 Location: Germany
@@ -16,6 +17,7 @@ Email: "Jannis.v.Hagen@gmail.com"
 Discord: "Booklordofthedings#1519"
 Twitter: "@Booklordofthed1"
 Steam: "https://steamcommunity.com/id/Booklordofthedings"
+
 ```
 
 ---
