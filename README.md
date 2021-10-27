@@ -8,6 +8,7 @@
 ```csharp
 Os: Windows 10 Pro x86_64
 Pronouns: He/Him
+Location: Germany
 ```
 
 ---
@@ -16,6 +17,18 @@ Pronouns: He/Him
 - A small game engine based on sdl2 written in beeflang
 - The pvz stats website, that does api calls and then formats them
 - My personal portfolio website  
+
+---
+
+## Hobbies
+* 💻 | Programming
+* 🎮 | Videogames
+* 🏸 | Batminton
+* 🎼 | Flute
+* 📕 | Reading
+* 🖌 | Drawing
+
+---
   
 Top Languages | Stats  
 ---|---  
