@@ -1,7 +1,5 @@
 ![The Booklordofthedings banner](https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png)
 
-# Hello Im Jannis, a Developer and Student   👋  
-  
 <img align="left" height="300px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">
 
 ## General
@@ -21,12 +19,12 @@ Location: Germany
 ---
 
 ## Hobbies
-* 💻 | Programming
-* 🎮 | Videogames
-* 🏸 | Batminton
-* 🎼 | Flute
-* 📕 | Reading
-* 🖌 | Drawing
+### * 💻 | Programming
+### * 🎮 | Videogames
+### * 🏸 | Batminton
+### * 🎼 | Flute
+### * 📕 | Reading
+### * 🖌 | Drawing
 
 ---
   
