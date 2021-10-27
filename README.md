@@ -21,12 +21,12 @@ Tools: Vscode, Unity, Git, Powershell
 ---
 
 ## Hobbies
-### * 💻 | Programming
-### * 🎮 | Videogames
-### * 🏸 | Batminton
-### * 🎼 | Flute
-### * 📕 | Reading
-### * 🖌 | Drawing
+### 💻 | Programming
+### 🎮 | Videogames
+### 🏸 | Batminton
+### 🎼 | Flute
+### 📕 | Reading
+### 🖌 | Drawing
 
 ---
 ## Stats
