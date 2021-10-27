@@ -3,7 +3,7 @@
 <p align="center"> <img height="300px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png"> </p>
 
 ```csharp
-Booklordofthedings
+Booklordofthedings (Jannis)
 ------------------------
 Os: Windows 10 Pro x86_64
 Pronouns: He/Him
