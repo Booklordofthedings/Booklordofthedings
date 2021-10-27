@@ -9,7 +9,7 @@ Os: Windows 10 Pro x86_64
 Pronouns: He/Him
 Location: Germany
 Languages: German, English
-Programming Languages: Beeflang, ( HTML, CSS ), C#, Javascript
+Programming_Languages: Beeflang, ( HTML, CSS ), C#, Javascript
 Tools: Vscode, Unity, Git, Powershell
 ```
 
