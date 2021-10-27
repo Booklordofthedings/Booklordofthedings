@@ -26,12 +26,7 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 ---
 
 ## Hobbies
-### 💻 | Programming
-### 🎮 | Videogames
-### 🏸 | Batminton
-### 🎼 | Flute
-### 📕 | Reading
-### 🖌 | Drawing
+### 💻 : Programming | 🎮 : Videogames | 🏸 : Batminton | 🎼 : Flute | 📕 : Reading | 🖌 : Drawing
 
 ---
 ## Stats
