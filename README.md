@@ -1,5 +1,3 @@
-![The Booklordofthedings banner](https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png)
-
 
 ## General
 <p align="center"> <img height="300px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png"> </p>
@@ -48,3 +46,6 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 
 ![Booklordofthedings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booklordofthedings&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booklordofthedings&show_icons=true&theme=radical)
+
+
+![The Booklordofthedings banner](https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png)
