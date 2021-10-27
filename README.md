@@ -21,8 +21,14 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 ---
 
 ## Current Projects
+
+* Portfolio Website written in HTML/CSS using Bootstrap
+* A game (I still dont know what I wanna do ) Written in Beeflang
+
 ## Past Projects
 
+* [BefBrand](https://github.com/Booklordofthedings/BeefBrand) Creates a file that can hardcode assets for Beeflang
+* [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) A Website that acesses the BfN api and shows stats (Try using Pc as the platform and Lybry_Book as the name )
 ---
 
 ## Hobbies
