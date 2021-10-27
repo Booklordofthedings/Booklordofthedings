@@ -2,7 +2,9 @@
 
 # Hello Im Jannis, a Developer and Student   👋  
   
-[<img align="left" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">]
+<img align="left" height="300px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/tiny_book2.png">
+
+---
   
 ## Projects right now
 - A small game engine based on sdl2 written in beeflang
