@@ -48,4 +48,4 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booklordofthedings&show_icons=true&theme=radical)
 
 ---
-<img height="200px" src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png">
+<img src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png">
