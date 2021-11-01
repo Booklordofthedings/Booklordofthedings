@@ -23,7 +23,7 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 
 ## Current Projects
 
-* Portfolio Website written in HTML/CSS using Bootstrap
+* A Rework of Booklordofthe.dev to make it simpler
 * A game (I still dont know what I wanna do ) Written in Beeflang
 
 ## Past Projects
