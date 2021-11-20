@@ -24,12 +24,12 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 ## Current Projects
 
 * A Rework of Booklordofthe.dev to make it simpler
-* A game (I still dont know what I wanna do ) Written in Beeflang
+* GON - Generic Object Notation - A Json-like notation for objects
 
 ## Past Projects
 
 * [BefBrand](https://github.com/Booklordofthedings/BeefBrand) Creates a file that can hardcode assets for Beeflang
-* [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) A Website that acesses the BfN api and shows stats (Try using Pc as the platform and Lybry_Book as the name )
+* [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) A Website that acesses the BfN api and shows stats (Try using Pc as the platform and Lybry_Book as the name)
 ---
 
 ## Hobbies
