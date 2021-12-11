@@ -24,7 +24,7 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 ## Current Projects
 
 * A Rework of Booklordofthe.dev to make it simpler
-* GON - Generic Object Notation - A Json-like notation for objects
+* An Input visualizer for streamers
 
 ## Past Projects
 
