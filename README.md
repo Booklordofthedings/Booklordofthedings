@@ -5,12 +5,12 @@
 ```csharp
 Booklordofthedings (Jannis)
 ------------------------
-Os: Windows 10 Pro x86_64
+Os: Windows 10 Pro x86_64 || Ubuntu lts.
 Pronouns: He/Him
 Location: Germany
 Languages: German, English
 Programming_Languages: Beeflang, ( HTML, CSS ), C#, Javascript
-Tools: Vscode, Unity, Git, Powershell
+Tools: Vscode, Unity, Git, WinTerm
 
 Email: "Jannis.v.Hagen@gmail.com"
 Discord: "Booklordofthedings#1519"
