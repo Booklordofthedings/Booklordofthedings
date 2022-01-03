@@ -28,7 +28,7 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 
 ## Past Projects
 
-* [BefBrand](https://github.com/Booklordofthedings/BeefBrand) Creates a file that can hardcode assets for Beeflang
+* [gon-beef](https://github.com/Booklordofthedings/gon-beef) A Beef parser for the gon notation
 * [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) A Website that acesses the BfN api and shows stats (Try using Pc as the platform and Lybry_Book as the name)
 ---
 
