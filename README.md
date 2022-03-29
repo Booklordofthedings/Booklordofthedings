@@ -5,7 +5,7 @@
 ```csharp
 Booklordofthedings (Jannis)
 ------------------------
-Os: Windows 10 Pro x86_64 || Ubuntu lts.
+Os: Windows 10 Pro x86_64 || Debian.
 Pronouns: He/Him
 Location: Germany
 Languages: German, English
