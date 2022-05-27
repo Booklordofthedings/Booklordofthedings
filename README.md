@@ -23,13 +23,13 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 
 ## Current Projects
 
-* A Rework of Booklordofthe.dev to make it simpler
+* A Tower defense game, similar to pvz
 * An Input visualizer for streamers
 
 ## Past Projects
 
-* [gon-beef](https://github.com/Booklordofthedings/gon-beef) A Beef parser for the gon notation
-* [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) A Website that acesses the BfN api and shows stats (Try using Pc as the platform and Lybry_Book as the name)
+* [gon](https://github.com/Booklordofthedings/gon) Generic object notation - Write down objects in a human readable way
+* [bfn-stat-bot-page](https://booklordofthedings.de/bfn/) Obsolete: Acessed a game api and returned player stats
 ---
 
 ## Hobbies
@@ -42,10 +42,5 @@ Steam: "https://steamcommunity.com/id/Booklordofthedings"
 
 
 ---
-## Stats
 
-![Booklordofthedings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booklordofthedings&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booklordofthedings&show_icons=true&theme=radical)
-
----
 <img src="https://github.com/Booklordofthedings/Booklordofthedings/blob/main/githubprofileheader.png">
