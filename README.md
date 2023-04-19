@@ -11,7 +11,7 @@ and learning the beef programming language.
 ```csharp
 Booklordofthedings (Jannis)
 ------------------------
-Os: Windows 10 Pro x86_64
+Os: Linux Mint, Windows 10
 Pronouns: He/Him
 Location: Germany
 Languages: German, English
